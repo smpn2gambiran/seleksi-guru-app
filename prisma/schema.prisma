@@ -1,0 +1,42 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Peserta {
+  id              String   @id @default(cuid())
+  nama            String
+  nomorPeserta    String   @unique
+  bidangStudi     String
+  asalSekolah     String
+  nik             String?  @default("-")
+  alamat          String?  @default("-")
+  tandaTangan     String?
+  statusSeleksi   String   @default("PENDING") // PENDING, SEDANG_UJI_CBT, dll.
+  cbtStartTime    DateTime?
+  
+  // Nilai
+  nilaiAdministrasi Float?
+  nilaiCbt        Float?
+  nilaiMicro      Float?
+  nilaiWawancara  Float?
+  nilaiSikap      Float?
+  
+  // Bobot
+  nilaiAkhir      Float?
+  
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Penguji {
+  id       String @id @default(cuid())
+  nama     String
+  username String @unique
+  password String // Hashed
+  role     String // ADMIN, CHARISMA, BUDI, LUKMAN
+}

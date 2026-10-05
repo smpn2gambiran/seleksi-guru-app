@@ -1,0 +1,729 @@
+
+Baik. Saya lanjutkan dari sisi pelamar, dan saya sarankan kita jadikan ini sebagai satu dokumen resmi yang dibaca peserta sebelum datang seleksi. Tujuannya bukan membuat peserta “menyerah untuk menggugat”, tetapi membuat mereka benar-benar memahami mekanisme, merasa diperlakukan adil, dan tahu persis apa yang akan terjadi.
+
+INFORMASI MEKANISME SELEKSI PESERTA
+Calon Guru KKA & Informatika — SMP Negeri 2 Gambiran
+Prinsip utama:
+Seleksi dilaksanakan berdasarkan kriteria yang telah ditetapkan, kondisi yang setara, bukti kinerja, rubrik penilaian, dan rekapitulasi nilai yang terdokumentasi.
+
+1. Yang wajib diketahui peserta sebelum seleksi
+Peserta perlu dapat melihat:
+
+Komponen	Bobot	Yang Dinilai
+Administrasi	10%	Kelengkapan, kualifikasi, pengalaman, kompetensi teknologi, portofolio
+Microteaching	20%	Kemampuan mengajar dan mengelola pembelajaran
+Wawancara	30%	Integritas, komunikasi, kolaborasi, adaptasi, problem solving, loyalitas institusi, komitmen, pengembangan profesional
+CBT KKA & Informatika	15%	Penalaran dan pemecahan masalah bidang KKA/Informatika
+Simulasi Kerja Nyata	15%	Kemampuan menyelesaikan pekerjaan nyata, prioritas, problem solving, komunikasi, ownership
+Wawancara Sikap Kerja	10%	Respons terhadap kebutuhan nyata sekolah: TKA/ANBK, laboratorium, kegiatan sekolah, digitalisasi
+TOTAL	100%	
+Peserta tidak perlu mengetahui soal, kasus, atau jawaban sebelum seleksi. Yang diberikan adalah jenis tugas, aspek yang dinilai, bobot, dan mekanisme penilaian.
+
+2. Apa yang harus dikerjakan peserta?
+A. Administrasi
+Peserta memastikan seluruh dokumen yang dipersyaratkan dalam pengumuman telah diserahkan.
+
+Penilaian administrasi bukan sekadar “ada atau tidak ada dokumen”, tetapi melihat:
+
+kelengkapan dan kesesuaian dokumen;
+
+kesesuaian kualifikasi dengan posisi;
+
+relevansi pengalaman mengajar;
+
+kompetensi dan pengalaman teknologi;
+
+portofolio serta bukti kompetensi.
+
+Catatan penting: persyaratan wajib dan komponen penilaian dibedakan. Dokumen yang merupakan persyaratan wajib tidak dapat “ditutup” dengan nilai tinggi pada komponen lain.
+
+3. Microteaching — 20%
+Peserta:
+
+Memilih 1 dari 8 topik yang telah ditentukan.
+
+Menyiapkan RPM/perangkat pembelajaran sesuai topik.
+
+Melaksanakan pembelajaran maksimal 15 menit.
+
+Mengajar di hadapan peserta didik simulasi.
+
+Boleh menggunakan media yang dipersiapkan sendiri.
+
+Topik yang dapat dipilih
+Berpikir Komputasional
+
+Algoritma & Pseudocode
+
+Data & Pengolahan Data
+
+Spreadsheet
+
+Jaringan Komputer
+
+Keamanan Digital
+
+Kecerdasan Artifisial
+
+Etika & Literasi AI
+
+Yang dinilai bukan “seberapa keren medianya”, tetapi seberapa efektif kandidat menggunakannya untuk mencapai tujuan pembelajaran.
+
+Teknologi juga bukan kewajiban mutlak. Jika suatu konsep lebih efektif diajarkan tanpa teknologi, hal tersebut tidak otomatis menjadi nilai rendah.
+
+4. CBT KKA & Informatika — 15%
+Peserta mengikuti CBT secara bersamaan menggunakan perangkat masing-masing.
+
+25 soal
+
+20 menit
+
+Berbasis kasus/stimulus
+
+Dominan penalaran C4–C6
+
+Materi KKA, Informatika, problem solving, data, jaringan, keamanan digital, AI, dan etika teknologi.
+
+Peserta harus memahami bahwa:
+
+CBT mengukur kemampuan peserta pada saat mengikuti tes, bukan sekadar banyaknya sertifikat yang dimiliki.
+
+Setelah jawaban dikirim dan tes ditutup, peserta tidak dapat mengubah jawaban.
+
+5. Simulasi Kerja Nyata — 15%
+Ini bagian yang sangat penting untuk menjawab kebutuhan sekolah terhadap “orang yang kalau diberi pekerjaan, pekerjaannya bergerak sampai selesai.”
+
+Peserta akan diberikan skenario pekerjaan sekolah yang berkaitan dengan:
+
+kesiapan laboratorium komputer;
+
+pengolahan data;
+
+persiapan kegiatan sekolah;
+
+masalah perangkat/jaringan;
+
+penentuan prioritas;
+
+penyelesaian pekerjaan;
+
+koordinasi;
+
+pelaporan hasil pekerjaan.
+
+Peserta tidak diberi soal persisnya sebelumnya.
+
+Yang dinilai:
+
+Inisiatif & ownership — 3%
+
+Prioritas & manajemen waktu — 3%
+
+Kemampuan menyelesaikan pekerjaan — 4%
+
+Problem solving & adaptasi — 3%
+
+Komunikasi & pelaporan — 2%
+
+Contohnya, jika menemukan komputer bermasalah, peserta tidak hanya dinilai dari apakah ia berhasil memperbaiki komputer tersebut.
+
+Peserta juga dinilai dari apakah ia mampu berpikir:
+
+“Apa yang paling menghambat kegiatan? Apa yang bisa saya selesaikan sekarang? Apa alternatifnya? Kapan saya meminta bantuan? Bagaimana memastikan kegiatan tetap berjalan?”
+
+Ini akan membuat seleksi jauh lebih relevan dengan pekerjaan nyata di sekolah.
+
+6. Wawancara — 30%
+Wawancara dilakukan secara terstruktur.
+
+Peserta akan mendapatkan pertanyaan utama yang sama, dengan pertanyaan pendalaman apabila diperlukan.
+
+Aspek yang dinilai:
+
+Integritas & tanggung jawab — 4%
+
+Komunikasi — 3%
+
+Kerja sama & kolaborasi — 4%
+
+Adaptabilitas teknologi — 3%
+
+Problem solving — 4%
+
+Loyalitas & kepemilikan institusi — 4%
+
+Komitmen terhadap tugas & fleksibilitas kerja — 5%
+
+Pengembangan profesional — 3%
+
+Penjelasan penting untuk peserta
+Loyalitas tidak berarti harus selalu setuju dengan pimpinan.
+
+Yang dimaksud adalah:
+
+menjaga amanah;
+
+menjaga data dan aset sekolah;
+
+menjaga reputasi institusi;
+
+bertanggung jawab terhadap pekerjaan;
+
+mampu bekerja dalam tim;
+
+dapat diarahkan;
+
+dan apabila berbeda pendapat, menyampaikannya melalui cara yang profesional.
+
+Demikian juga komitmen dan fleksibilitas kerja tidak berarti kewajiban bekerja tanpa batas atau tanpa memperhatikan ketentuan yang berlaku.
+
+Yang dinilai adalah kesiapan menghadapi periode kerja sekolah yang memang membutuhkan koordinasi dan intensitas lebih tinggi.
+
+7. Wawancara Sikap Kerja — 10%
+Bagian ini berbeda dari wawancara 30%.
+
+Wawancara 30% menguji profil kompetensi dan profesionalisme secara luas.
+
+Sedangkan Wawancara Sikap Kerja menguji:
+
+“Bagaimana kandidat kemungkinan bertindak ketika benar-benar berhadapan dengan kebutuhan sekolah?”
+
+Peserta akan menghadapi kasus seperti:
+
+Kasus 1 — TKA/ANBK
+Persiapan komputer, data peserta, simulasi dan koordinasi membutuhkan beberapa hari, sementara peserta tetap memiliki tugas mengajar.
+
+Kasus 2 — Laboratorium
+Beberapa komputer bermasalah menjelang pembelajaran sementara guru membutuhkan laboratorium.
+
+Kasus 3 — Kegiatan sekolah
+Peserta sedang menyelesaikan pekerjaan sendiri, tetapi sekolah membutuhkan bantuan untuk kebutuhan digital/perangkat.
+
+Kasus 4 — Digitalisasi
+Peserta mempunyai kemampuan membuat formulir, sistem rekap, aplikasi sederhana, atau solusi digital dan diminta membantu sekolah.
+
+Yang dicari bukan jawaban:
+
+“Saya siap melakukan apa saja.”
+
+Yang dicari adalah bukti cara berpikir dan cara bekerja.
+
+8. Apa yang TIDAK diberitahukan kepada peserta?
+Ini penting untuk menjaga integritas seleksi.
+
+Peserta tidak perlu diberikan:
+
+soal CBT;
+
+kunci jawaban;
+
+kasus simulasi yang persis;
+
+jawaban ideal;
+
+identitas/penilaian pribadi assessor;
+
+nilai peserta lain;
+
+ranking sementara;
+
+ranking peserta lain;
+
+bank soal;
+
+detail keamanan sistem.
+
+Jadi prinsipnya:
+
+Transparan terhadap mekanisme, tetapi tetap menjaga kerahasiaan materi ujian.
+
+9. Apa yang dapat dilihat peserta selama seleksi?
+Saya menyarankan website peserta hanya menampilkan:
+
+STATUS PESERTA
+
+✓ Administrasi
+✓ Menunggu CBT
+✓ CBT selesai
+✓ Menunggu Microteaching
+✓ Microteaching selesai
+✓ Menunggu Wawancara
+✓ Wawancara selesai
+✓ Menunggu Simulasi
+✓ Simulasi selesai
+✓ Menunggu Wawancara Sikap Kerja
+✓ Seleksi selesai
+
+Jangan tampilkan nilai sementara.
+
+Dengan demikian peserta tetap mengetahui bahwa prosesnya berjalan tanpa dapat melihat ranking atau mencoba menebak posisi dirinya.
+
+10. Setelah seluruh seleksi selesai
+Ini bagian yang menurut saya sangat penting untuk mencegah masalah di kemudian hari.
+
+Setiap peserta sebaiknya memperoleh rekap hasil miliknya sendiri.
+
+Contoh:
+
+Komponen	Nilai
+Administrasi	8,40
+Microteaching	16,80
+Wawancara	23,40
+CBT	11,40
+Simulasi Kerja Nyata	12,00
+Wawancara Sikap Kerja	7,00
+TOTAL	79,00
+STATUS	Tidak Terpilih
+Angka di atas hanya contoh tampilan, bukan nilai peserta.
+
+Peserta dapat mengetahui:
+
+“Saya mendapatkan hasil ini karena komponen penilaian saya menghasilkan angka tersebut.”
+
+Bukan hanya:
+
+“Anda tidak lolos.”
+
+11. Mekanisme klarifikasi
+Saya sangat menyarankan ada satu mekanisme resmi:
+
+Batas waktu
+1 × 24 jam setelah hasil diumumkan.
+
+Yang dapat diklarifikasi
+Misalnya:
+
+kesalahan identitas;
+
+nilai salah input;
+
+perhitungan salah;
+
+komponen yang seharusnya sudah dinilai tetapi belum masuk;
+
+kesalahan administrasi;
+
+gangguan teknis yang dapat dibuktikan dan berpengaruh terhadap hasil.
+
+Yang bukan dasar perubahan nilai
+Misalnya:
+
+“Menurut saya nilai saya terlalu rendah.”
+
+atau
+
+“Saya merasa lebih pantas daripada peserta lain.”
+
+atau
+
+“Saya sudah punya pengalaman, seharusnya diluluskan.”
+
+Klarifikasi bukan mekanisme untuk meminta kenaikan nilai, tetapi mekanisme untuk memastikan data dan proses yang digunakan memang benar.
+
+12. Apa yang harus ditandatangani peserta?
+Saya tidak menyarankan kalimat:
+
+“Saya tidak akan menggugat hasil seleksi.”
+
+Lebih aman menggunakan bentuk Pernyataan Pemahaman Mekanisme Seleksi.
+
+Intinya peserta menyatakan bahwa mereka:
+
+telah menerima informasi tahapan;
+
+memahami bobot penilaian;
+
+memahami jenis kompetensi yang dinilai;
+
+memahami bahwa materi/soal seleksi tidak diberikan sebelumnya;
+
+bersedia mengikuti seluruh tahapan sesuai tata tertib;
+
+memahami bahwa nilai ditentukan berdasarkan rubrik dan bukti kinerja;
+
+memahami bahwa hasil dihitung berdasarkan bobot yang telah ditetapkan;
+
+mengetahui mekanisme klarifikasi apabila menemukan kesalahan administrasi/data/perhitungan;
+
+memahami bahwa keputusan akhir didasarkan pada hasil seleksi sesuai mekanisme yang telah ditetapkan.
+
+Ini jauh lebih sehat daripada meminta peserta “melepaskan hak untuk mempersoalkan hasil”.
+
+13. Satu halaman yang wajib diberikan kepada peserta
+Kalau saya menjadi konsultan HRD untuk proses ini, saya akan memastikan sebelum peserta masuk ruang seleksi mereka telah menerima:
+
+CHECKLIST TRANSPARANSI PESERTA
+☐ Tahapan seleksi
+☐ Bobot masing-masing tahapan
+☐ Durasi masing-masing tahapan
+☐ Kompetensi yang dinilai
+☐ Jenis tugas secara umum
+☐ Tata tertib seleksi
+☐ Aturan penggunaan perangkat
+☐ Ketentuan keterlambatan
+☐ Ketentuan gangguan teknis
+☐ Mekanisme penilaian 1–5
+☐ Mekanisme penghitungan nilai
+☐ Informasi bahwa nilai tidak ditampilkan selama proses
+☐ Bentuk hasil akhir yang diterima peserta
+☐ Mekanisme klarifikasi
+☐ Ketentuan perlindungan data peserta
+☐ Pernyataan pemahaman mekanisme seleksi
+
+Dengan checklist ini, jika suatu hari ada pertanyaan dari peserta, orang tua, masyarakat, atau pihak eksternal, panitia dapat menunjukkan:
+
+“Informasi mekanisme sudah diberikan sebelum peserta mengikuti seleksi.”
+
+Dan saya sarankan kita membuat 3 dokumen peserta
+Agar sistem kita benar-benar kuat, berikutnya saya sarankan kita finalkan:
+
+Dokumen 1 — INFORMASI MEKANISME SELEKSI PESERTA
+→ dibaca peserta sebelum seleksi.
+
+Dokumen 2 — TATA TERTIB PESERTA
+→ apa yang boleh/tidak boleh dilakukan selama seleksi.
+
+Dokumen 3 — PERNYATAAN PEMAHAMAN MEKANISME SELEKSI
+→ peserta centang/tanda tangan setelah membaca.
+
+Setelah ketiga dokumen ini selesai, barulah kita kunci seluruh instrumen seleksi dan masuk ke desain database/website. Dengan demikian website nanti hanya mengimplementasikan aturan yang sudah final, bukan menentukan aturan di tengah proses.
+
+
+iya nanti kita harus siapkan ya
+
+Memory updated
+Betul. Kita simpan sebagai pekerjaan wajib berikutnya.
+
+Urutan yang saya sarankan sekarang:
+
+Kunci seluruh instrumen seleksi — bobot, indikator, rubrik, soal, simulasi.
+
+Siapkan 3 dokumen peserta:
+
+Informasi Mekanisme Seleksi Peserta
+
+Tata Tertib Peserta
+
+Pernyataan Pemahaman Mekanisme Seleksi
+
+Audit dari sudut pandang pelamar — apakah ada informasi yang masih kurang atau berpotensi menimbulkan keberatan.
+
+Audit dari sudut pandang panitia/assessor — apakah setiap keputusan punya bukti dan jejak.
+
+Baru desain database + alur website + struktur export/import Antigravity.
+
+Dengan begitu kita tidak membangun website terlebih dahulu lalu menemukan bahwa aturan seleksinya masih berubah-ubah.
+
+
+kita lanjutkan nanti saya mau pulang ke rumah
+
+Siap. Kita lanjutkan nanti dari titik terakhir ini.
+
+Yang sudah kita tetapkan untuk dilanjutkan:
+
+instrumen seleksi dikunci;
+
+3 dokumen peserta;
+
+audit fairness/transparansi;
+
+kemudian desain sistem website dan struktur data untuk Antigravity.
+
+Hati-hati di perjalanan.
+
+
+apakah kita bisa lanjutkan?
+
+Bisa. Kita bisa langsung lanjut dari titik terakhir tanpa mengulang dari awal.
+
+Posisi kita sekarang:
+
+SUDAH DIKUNCI
+
+Administrasi — 10%
+
+Microteaching — 20%
+
+Wawancara — 30%
+
+CBT KKA & Informatika — 15%
+
+Simulasi Kerja Nyata — 15%
+
+Wawancara Sikap Kerja — 10%
+
+Total — 100%
+
+Mekanisme penilaian, evidence, lock, dan audit trail.
+
+Prinsip transparansi peserta.
+
+BELUM KITA FINALKAN
+
+📄 Informasi Mekanisme Seleksi Peserta
+
+📋 Tata Tertib Peserta
+
+✍️ Pernyataan Pemahaman Mekanisme Seleksi
+
+Audit akhir seluruh instrumen dari perspektif pelamar
+
+Baru kemudian desain database + website + export/import Antigravity.
+
+Saya sarankan kita mulai dari Dokumen 1 — Informasi Mekanisme Seleksi Peserta, karena dokumen ini menjadi dasar bagi dua dokumen berikutnya.
+
+
+Ya. Struktur penilaian sudah cukup untuk kita lanjutkan. Kita tidak perlu memperlebar instrumen lagi.
+
+Yang sudah terkunci:
+
+1. Peserta
+10 kandidat — P-001 s.d. P-010 ✅
+
+2. Penguji
+Microteaching: Budi Setyawan, S.Pd
+
+Wawancara: Lukman Arif, S.Pd.I, M.Pd, S.Pd.I
+
+Simulasi + Wawancara Sikap: Charisma Pramuda Wijaya
+
+CBT: seluruh kandidat bersama
+
+Administrasi: panitia/admin
+
+3. Bobot akhir
+Komponen	Bobot	Input
+Administrasi	10%	Admin
+Microteaching	20%	1 nilai 0–100
+Wawancara	30%	1 nilai 0–100
+CBT	15%	Otomatis
+Simulasi + Wawancara Sikap	25%	1 nilai 0–100 + panduan
+TOTAL	100%	Otomatis
+4. Durasi
+CBT: 20 menit
+
+Microteaching: 15 menit
+
+Wawancara: 15 menit
+
+Simulasi + Sikap: 20 menit
+
+Transisi/jeda: maksimal 10 menit
+
+5. Prinsip sistem
+Penguji tidak perlu mengisi banyak nilai.
+
+Mereka cukup:
+
+Baca panduan → amati → pertimbangkan bukti → masukkan 1 nilai → catatan singkat → Kunci.
+
+Sementara sistem yang mengurus:
+
+bobot → perhitungan → rekap → status → audit trail.
+
+6. Kandidat tidak hadir
+Sistem mendukung:
+
+HADIR
+
+MENUNGGU
+
+DIPANGGIL
+
+SEDANG DINILAI
+
+SELESAI
+
+NO SHOW
+
+BERHALANGAN
+
+TERLAMBAT
+
+dan ketidakhadiran tidak otomatis dianggap nilai 0.
+
+Jadi sekarang kita bisa masuk ke tahap berikutnya
+Saya menyarankan jangan langsung coding halaman website.
+
+Kita buat dulu MASTER DATA FINAL, yang menjadi cetak biru untuk Supabase/Vercel:
+
+SELEKSI GURU KKA & INFORMATIKA
+│
+├── MASTER PESERTA
+├── MASTER PENGUJI
+├── MASTER KOMPONEN
+├── MASTER BOBOT
+├── MASTER DURASI
+├── MASTER STATUS PESERTA
+├── MASTER QUEUE / ROLLING
+├── PENILAIAN
+├── HASIL AKHIR
+├── KLARIFIKASI
+└── AUDIT TRAIL
+Setelah master ini selesai, baru kita bisa menerjemahkannya ke struktur tabel Supabase + alur halaman website tanpa harus bongkar-bongkar lagi.
+
+Jadi ya, kita sudah bisa lanjut.
+
+
+Simulasi + Wawancara Sikap
+25%
+1 nilai 0–100 + panduan ini jangan satu nilai tapi dipandu detail
+
+Ya, saya paham sekarang. Input akhirnya tetap 1 nilai 0–100, tetapi Charisma harus mendapatkan panduan penilaian yang detail, bukan sekadar lima poin umum.
+
+Jadi kita buat lembar panduan internal penguji, sedangkan di sistem tetap hanya ada satu kolom Nilai Akhir.
+
+Panduan Penguji — Simulasi Kerja Nyata & Wawancara Sikap Kerja
+Bobot: 25%
+
+Aspek	Yang Dinilai	Indikator Perilaku
+1. Inisiatif & Ownership	Respons awal terhadap tugas	Memahami kebutuhan tanpa menunggu instruksi berulang; mulai bekerja pada bagian yang jelas; mencari informasi yang diperlukan; menunjukkan tanggung jawab terhadap hasil.
+2. Prioritas & Manajemen Waktu	Cara menentukan urutan pekerjaan	Mampu membedakan pekerjaan mendesak dan penting; mendahulukan pekerjaan yang berdampak pada kelangsungan kegiatan; memperhitungkan waktu; tidak terjebak pada pekerjaan yang kurang penting.
+3. Penyelesaian Pekerjaan	Orientasi terhadap hasil	Tidak berhenti hanya karena menemukan kendala; memastikan pekerjaan utama selesai; melakukan pengecekan ulang; melaporkan pekerjaan yang belum selesai secara jujur.
+4. Problem Solving	Cara menghadapi masalah	Mengidentifikasi masalah; mencari penyebab; menentukan tindakan; mencoba alternatif ketika solusi pertama gagal; meminta bantuan ketika diperlukan.
+5. Adaptasi	Respons terhadap perubahan kondisi	Tidak panik ketika kondisi berubah; mampu mengubah strategi; menggunakan sumber daya yang tersedia; tetap menjaga tujuan utama.
+6. Komunikasi	Penyampaian informasi	Menjelaskan masalah secara jelas; menyampaikan kondisi berdasarkan fakta; tidak menyalahkan pihak lain; memberikan informasi yang diperlukan untuk mengambil keputusan.
+7. Koordinasi & Respons terhadap Arahan	Kerja bersama	Mendengarkan instruksi; memahami tujuan arahan; melaksanakan dengan tepat; bertanya ketika belum jelas; memberikan informasi balik jika terdapat kendala.
+8. Tanggung Jawab Profesional	Sikap terhadap tugas sekolah	Tidak mudah mengatakan “bukan tugas saya”; memahami bahwa kebutuhan sekolah membutuhkan koordinasi; tetap mempertimbangkan tugas utama dan menyampaikan jika ada benturan.
+9. Komitmen & Fleksibilitas	Kesediaan menghadapi periode kerja intensif	Bersedia membantu ketika sekolah menghadapi kegiatan penting; mampu mengatur prioritas; memahami kebutuhan persiapan dan koordinasi; tetap bekerja secara profesional, bukan sekadar menunggu tugas rutin.
+10. Orientasi Penyelesaian	Sikap sampai pekerjaan selesai	Berusaha memastikan masalah memiliki penyelesaian; melakukan follow-up; memastikan pihak terkait mengetahui kondisi; tidak meninggalkan pekerjaan tanpa kejelasan.
+Kemudian gunakan patokan nilai berikut
+90–100 — Sangat kuat
+Hampir seluruh perilaku yang dicari terlihat jelas. Kandidat mampu bekerja mandiri, menentukan prioritas, menyelesaikan masalah, berkoordinasi, beradaptasi, dan bertanggung jawab terhadap hasil.
+
+80–89 — Kuat
+Sebagian besar perilaku terlihat jelas. Kandidat mampu bekerja dengan baik dan menyelesaikan tugas, dengan beberapa kekurangan kecil yang tidak mengganggu hasil.
+
+70–79 — Cukup
+Kandidat mampu menjalankan tugas, tetapi masih membutuhkan arahan pada beberapa bagian. Prioritas, problem solving, koordinasi, atau follow-up belum konsisten.
+
+60–69 — Kurang
+Kandidat cenderung menunggu instruksi, kurang mampu menentukan prioritas, solusi terbatas, atau kurang menunjukkan tanggung jawab terhadap hasil.
+
+<60 — Sangat kurang
+Tidak menunjukkan respons kerja yang memadai, sulit diarahkan, tidak mampu menghadapi kendala, menghindari tanggung jawab, atau tidak menunjukkan orientasi penyelesaian.
+
+Yang harus dicari Charisma selama simulasi
+Jangan menilai:
+
+ramah/tidak ramah
+
+banyak tersenyum
+
+gaya bicara
+
+laptop mahal
+
+cepat mengetik
+
+terlihat percaya diri
+
+kemampuan membuat solusi yang "wah"
+
+Yang dicari adalah perilaku kerja yang dapat diamati.
+
+Misalnya kandidat mengatakan:
+
+“Saya akan memperbaiki komputer A dulu.”
+
+Jangan langsung memberi nilai tinggi.
+
+Lihat apakah dia kemudian:
+
+mengidentifikasi masalah → menentukan prioritas → melakukan tindakan → menguji hasil → mencari alternatif → melaporkan hasil.
+
+Itulah yang menjadi dasar nilai.
+
+Format yang dilihat Charisma di website
+Tetap sederhana:
+
+SIMULASI KERJA NYATA & WAWANCARA SIKAP KERJA
+Bobot 25%
+
+Panduan Penilaian
+10 aspek di atas dapat dibuka/ditampilkan sebagai panduan.
+
+Nilai Akhir
+
+[ 0 – 100 ]
+
+Catatan/Bukti Pengamatan
+
+[................................................]
+
+[ SIMPAN ] [ KUNCI NILAI ]
+
+Jadi Charisma tidak memasukkan 10 nilai. Ia membaca 10 aspek tersebut sebagai rubrik/panduan pengamatan, lalu berdasarkan keseluruhan bukti memberikan satu nilai akhir 0–100.
+
+Menurut saya ini adalah kompromi yang tepat: instrumennya tetap detail dan dapat dipertanggungjawabkan, tetapi pelaksanaan tetap sederhana.
+
+
+Charisma  harus memasukkan 10 nilai 
+
+Betul. Kalau tujuannya penilaian lebih objektif dan bisa diaudit, untuk komponen Simulasi Kerja Nyata & Wawancara Sikap Kerja (25%) justru lebih baik Charisma memasukkan 10 nilai, masing-masing aspek 0–100. Sistem kemudian menghitung rata-ratanya menjadi nilai komponen 25%.
+
+Saya kunci modelnya seperti ini:
+
+Simulasi Kerja Nyata & Wawancara Sikap Kerja — 25%
+No.	Aspek Penilaian	Nilai
+1	Inisiatif & Ownership	0–100
+2	Prioritas & Manajemen Waktu	0–100
+3	Penyelesaian Pekerjaan	0–100
+4	Problem Solving	0–100
+5	Adaptasi	0–100
+6	Komunikasi	0–100
+7	Koordinasi & Respons terhadap Arahan	0–100
+8	Tanggung Jawab Profesional	0–100
+9	Komitmen & Fleksibilitas	0–100
+10	Orientasi Penyelesaian	0–100
+Rata-rata Komponen	Otomatis
+Rumus
+Misalnya Charisma memberi:
+
+85, 90, 82, 88, 80, 86, 90, 85, 84, 88
+
+Maka:
+
+(85+90+82+88+80+86+90+85+84+88) ÷ 10 = 85,8
+
+Nilai komponen:
+
+85,8 × 25% = 21,45
+
+Jadi Charisma tidak memasukkan nilai bobot 25% secara manual. Sistem yang menghitungnya.
+
+Dan saya sarankan setiap aspek punya panduan 1–5
+Supaya Charisma tidak menilai berdasarkan feeling.
+
+Contoh Inisiatif & Ownership:
+
+Level	Panduan
+5 — Sangat kuat	Langsung memahami kebutuhan, mengambil tindakan relevan, mencari informasi yang diperlukan, dan bertanggung jawab terhadap hasil.
+4 — Kuat	Mampu mulai bekerja dengan sedikit arahan dan menunjukkan tanggung jawab terhadap hasil.
+3 — Cukup	Mengerjakan tugas tetapi masih cukup sering menunggu arahan.
+2 — Kurang	Cenderung menunggu instruksi dan kurang mengambil tanggung jawab.
+1 — Sangat kurang	Tidak menunjukkan inisiatif dan cenderung menghindari tanggung jawab.
+Kemudian 1–5 dikonversi ke rentang nilai 0–100, misalnya:
+
+Level 5 → 90–100
+
+Level 4 → 80–89
+
+Level 3 → 70–79
+
+Level 2 → 60–69
+
+Level 1 → ≤59
+
+Dengan demikian Charisma tetap bisa memasukkan nilai 0–100, tetapi punya panduan yang jelas untuk menentukan angka.
+
+Ini menurut saya format final yang lebih kuat: 10 aspek → 10 nilai → rata-rata otomatis → bobot 25% otomatis.
+
+Chat paused until usage resets at 11:55 PM
+You’ve reached the limit for chats that include data analysis. Start a new text-only chat or upgrade to continue now.
+
+New chat
+
+Upgrade
+sudah cukup 
+

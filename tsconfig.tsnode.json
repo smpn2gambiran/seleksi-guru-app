@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "resolveJsonModule": true
+  },
+  "ts-node": {
+    "esm": true
+  }
+}

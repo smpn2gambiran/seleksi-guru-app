@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "pertanyaan": "Data 10.000 siswa di sistem belum terurut dan sering bertambah tiap jam. Jika pencarian NISN harus dilakukan langsung tanpa membuang waktu mengurutkan data berulang kali, algoritma pencarian apa yang paling efisien?",
+    "pilihan": {
+      "A": "Linear Search",
+      "B": "Binary Search",
+      "C": "Interpolation Search",
+      "D": "Bubble Sort",
+      "E": "Quick Sort"
+    },
+    "kunci": "A"
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Diketahui variabel A = 15 dan B = 40. Jalankan operasi berikut: A = A + B, lalu B = A - B, lalu A = A - B. Berapa nilai akhir A dan B?",
+    "pilihan": {
+      "A": "A = 15, B = 40",
+      "B": "A = 40, B = 15",
+      "C": "A = 55, B = 25",
+      "D": "A = 25, B = 55",
+      "E": "A = 40, B = 55"
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Sekolah punya 30 PC untuk 90 siswa ujian CBT. Langkah mana yang mencerminkan pilar Dekomposisi dan Abstraksi sekaligus untuk mengatasi keterbatasan ini?",
+    "pilihan": {
+      "A": "Membeli 60 PC baru dan mengabaikan daya listrik sekolah.",
+      "B": "Dekomposisi: membagi ujian jadi 3 sesi; Abstraksi: fokus pada spesifikasi minimum browser ujian.",
+      "C": "Mengubah ujian berbasis kertas dan membatalkan CBT.",
+      "D": "Memperbaiki PC rusak dan menghitung total biaya listrik.",
+      "E": "Menumpuk 90 siswa dalam satu ruangan sempit."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 4,
+    "pertanyaan": "Fungsi rekursif Fibonacci tanpa penyimpanan memori mengalami lag parah saat dimasukkan angka n = 50, sedangkan metode perulangan (loop) selesai seketika. Mengapa hal ini terjadi?",
+    "pilihan": {
+      "A": "Rekursif memanggil ulang sub-masalah yang sama secara eksponensial O(2^n).",
+      "B": "Metode looping otomatis menambah kapasitas RAM HP.",
+      "C": "HP tidak mendukung fungsi matematika di atas angka 30.",
+      "D": "Fungsi rekursif menghapus file sistem di memori internal.",
+      "E": "Metode looping tidak membutuhkan memori prosesor."
+    },
+    "kunci": "A"
+  },
+  {
+    "id": 5,
+    "pertanyaan": "Sebuah fungsi pencarian nilai tertinggi diisi inisialisasi awal max = 0. Mengapa inisialisasi ini berdampak fatal jika diterapkan pada data nilai riil?",
+    "pilihan": {
+      "A": "Fungsi akan error jika data berisi angka desimal.",
+      "B": "Nilai yang dihasilkan salah jika seluruh data berisi angka negatif.",
+      "C": "Program akan mengalami infinite loop.",
+      "D": "Indeks array tidak bisa dibaca oleh sistem.",
+      "E": "Fungsi otomatis mengembalikan nilai terkecil."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 6,
+    "pertanyaan": "Data 500 nilai siswa sudah terurut rapi. Tiba-tiba ada 3 data susulan yang perlu disisipkan ke posisi yang tepat. Algoritma sorting mana yang paling cepat untuk kondisi data yang hampir terurut ini?",
+    "pilihan": {
+      "A": "Quick Sort",
+      "B": "Selection Sort",
+      "C": "Insertion Sort",
+      "D": "Merge Sort",
+      "E": "Heap Sort"
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 7,
+    "pertanyaan": "Sel B2 berisi nilai siswa. Ketentuan predikat: >= 85 (Sangat Baik), >= 70 (Baik), dan < 70 (Perlu Bimbingan). Formula spreadsheet di sel C2 yang benar dan tidak salah logika adalah...",
+    "pilihan": {
+      "A": "=IF(B2>=85; \"Sangat Baik\"; IF(B2>=70; \"Baik\"; \"Perlu Bimbingan\"))",
+      "B": "=IF(B2>=70; \"Baik\"; IF(B2>=85; \"Sangat Baik\"; \"Perlu Bimbingan\"))",
+      "C": "=IF(B2<70; \"Sangat Baik\"; IF(B2>=70; \"Baik\"; \"Perlu Bimbingan\"))",
+      "D": "=VLOOKUP(B2; \"Sangat Baik\"; \"Baik\")",
+      "E": "=IF(B2>=85; \"Sangat Baik\"; \"Baik\"; \"Perlu Bimbingan\")"
+    },
+    "kunci": "A"
+  },
+  {
+    "id": 8,
+    "pertanyaan": "Data unduhan dari Google Form berantakan: nama bercampur huruf kapital/kecil, ada data ganda, dan kolom pengalaman terisi teks padahal harusnya angka. Urutan pembersihan data yang benar adalah...",
+    "pilihan": {
+      "A": "Hapus semua data -> unduh ulang -> ubah ke angka.",
+      "B": "Hapus data ganda -> rapikan format teks nama -> konversi teks pengalaman ke angka.",
+      "C": "Mengonversi angka -> biarkan data ganda -> ubah nama ke huruf kapital.",
+      "D": "Isi kolom kosong angka 0 -> hapus baris terakhir -> simpan ke PDF.",
+      "E": "Urutkan nama -> hapus kolom nomor -> ekspor ke CSV."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 9,
+    "pertanyaan": "Grafik batang nilai 2 sekolah terlihat berselisih 4 kali lipat di layar karena sumbu Y dimulai dari angka 92% (bukan 0%), padahal nilai aslinya 96% dan 93%. Apa dampak dari penyajian grafik ini?",
+    "pilihan": {
+      "A": "Memperjelas perbedaan nilai secara akurat.",
+      "B": "Menyesatkan (misleading) karena memotong sumbu Y memperbesar persepsi selisih visual.",
+      "C": "Membuktikan sekolah kedua jauh lebih buruk.",
+      "D": "Sumbu X seharusnya diganti menjadi grafik garis.",
+      "E": "Sudah sesuai dengan prinsip kejujuran data ilmiah."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 10,
+    "pertanyaan": "Satu tabel berisi gabungan data siswa, penguji, dan soal secara berulang-ulang (unnormalized). Langkah normalisasi yang paling tepat agar basis data rapi dan efisien adalah...",
+    "pilihan": {
+      "A": "Menghapus data nama penguji dari database.",
+      "B": "Memecah menjadi tabel terpisah (Peserta, Penguji, Soal) yang dihubungkan dengan Foreign Key.",
+      "C": "Menggabungkan semua nilai menjadi satu teks panjang.",
+      "D": "Mengubah ID Penguji menjadi format gambar.",
+      "E": "Membuat tabel baru tanpa menggunakan ID."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 11,
+    "pertanyaan": "Hasil tes menunjukkan rata-rata materi Algoritma 88, Jaringan 82, namun Keamanan Digital & AI hanya 45. Sebagai pimpinan, tindakan tindak lanjut paling tepat adalah...",
+    "pilihan": {
+      "A": "Mengulang tes dari awal untuk semua peserta.",
+      "B": "Menurunkan standar kelulusan materi Keamanan Digital jadi 40.",
+      "C": "Merancang program pelatihan khusus materi Keamanan Digital & AI untuk kandidat terpilih.",
+      "D": "Mengeliminasi seluruh peserta yang nilai Keamanan Digitalnya di bawah 50.",
+      "E": "Mengabaikan materi Keamanan Digital karena tidak penting."
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 12,
+    "pertanyaan": "Laboratorium menggunakan IP 192.168.1.0/27. Komputer server ber-IP 192.168.1.1. Mengapa PC siswa yang diisi IP 192.168.1.33 tidak bisa terhubung ke server?",
+    "pilihan": {
+      "A": "Kabel LAN fisik pada PC siswa terputus.",
+      "B": "IP 192.168.1.33 berada di luar rentang subnet /27 (host valid hanya .1 sampai .30).",
+      "C": "IP tersebut merupakan IP Publik yang dilarang.",
+      "D": "Terjadi bentrok IP (IP conflict) dengan server.",
+      "E": "PC siswa harus menggunakan koneksi Wi-Fi."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 13,
+    "pertanyaan": "Ujian CBT 30 PC mendadak lambat karena lalu lintas data terganggu oleh Wi-Fi tamu dan printer dalam satu jaringan yang sama. Solusi jaringan paling efektif adalah...",
+    "pilihan": {
+      "A": "Mengganti semua kabel LAN dengan Wi-Fi.",
+      "B": "Menerapkan VLAN (Virtual LAN) di Switch Managed untuk memisahkan lalu lintas CBT dan Wi-Fi.",
+      "C": "Mematikan server CBT tiap 10 menit.",
+      "D": "Mengganti sistem operasi semua PC client.",
+      "E": "Menambah jumlah printer di laboratorium."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 14,
+    "pertanyaan": "Browser menampilkan pesan \"Server DNS Address Not Found\" saat membuka cbt.sekolah.sch.id. Namun saat dites ping 192.168.1.250 (IP Server), koneksi lancar. Di mana letak masalahnya?",
+    "pilihan": {
+      "A": "Kabel LAN putus (Physical Layer).",
+      "B": "Pengaturan IP konflik (Network Layer).",
+      "C": "Layanan pemetaan nama domain/DNS tidak berfungsi (Application Layer).",
+      "D": "Listrik laboratorium redup.",
+      "E": "Port LAN di PC rusak."
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 15,
+    "pertanyaan": "Dua gedung laboratorium berjarak 800 meter ingin dihubungkan kabel jaringan yang tahan dari gangguan petir dan gelombang elektromagnetik. Media apa yang wajib digunakan?",
+    "pilihan": {
+      "A": "Kabel UTP Cat5e",
+      "B": "Kabel Coaxial",
+      "C": "Kabel Fiber Optik",
+      "D": "Kabel STP Cat6",
+      "E": "Bluetooth"
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 16,
+    "pertanyaan": "Guru menerima email berlogo resmi yang meminta mengklik tautan sertifikasi-guru.free-website.com/login dalam waktu 1 jam atau akun diblokir. Indikator utama email ini adalah Phishing adalah...",
+    "pilihan": {
+      "A": "Email dikirim saat jam kerja.",
+      "B": "Adanya ancaman waktu (urgency) dan penggunaan domain alamat web tidak resmi.",
+      "C": "Menggunakan bahasa Indonesia yang baku.",
+      "D": "Adanya logo instansi di dalam email.",
+      "E": "Email masuk di folder Inbox utama."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 17,
+    "pertanyaan": "Mengapa penyimpanan password akun siswa di basis data lebih aman menggunakan metode Hashing daripada Encryption?",
+    "pilihan": {
+      "A": "Hashing bisa dikembalikan lagi ke password asli dengan mudah oleh admin.",
+      "B": "Hashing bersifat satu arah (one-way) sehingga password asli tidak bisa dibaca kembali meskipun database bocor.",
+      "C": "Encryption tidak membutuhkan kunci rahasia.",
+      "D": "Hashing membuat ukuran file berubah-ubah.",
+      "E": "Hashing mempercepat koneksi internet."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 18,
+    "pertanyaan": "Sistem menerapkan prinsip Least Privilege (hak akses secukupnya). Perlakuan mana yang melanggar prinsip keamanan tersebut?",
+    "pilihan": {
+      "A": "Siswa hanya bisa melihat nilai miliknya sendiri.",
+      "B": "Guru bisa melihat dan mengedit nilai kelas yang diajarnya.",
+      "C": "Penguji tes diberi hak akses hapus (DELETE) seluruh tabel basis data.",
+      "D": "Admin utama diberi akses penuh mengelola akun.",
+      "E": "Guru tidak bisa mengubah struktur tabel database."
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 19,
+    "pertanyaan": "Untuk mencegah kehilangan data nilai akibat serangan Ransomware, penerapan aturan cadangan data 3-2-1 yang benar adalah...",
+    "pilihan": {
+      "A": "Simpan 3 salinan data, di 2 jenis media berbeda, dan 1 salinan disimpan di lokasi terpisah (cloud/offsite).",
+      "B": "Backup 3 kali sehari, selama 2 bulan, oleh 1 orang.",
+      "C": "Simpan data di 3 flashdisk berbeda dalam 1 laci meja.",
+      "D": "Pakai 3 password untuk 2 folder di 1 PC.",
+      "E": "Unduh data 3 kali lalu hapus data di server utama."
+    },
+    "kunci": "A"
+  },
+  {
+    "id": 20,
+    "pertanyaan": "Sistem absensi kamera melatih 5.000 foto wajah yang masing-masing sudah diberi label nama siswa agar sistem bisa mengenali wajah tersebut. Metode AI ini tergolong...",
+    "pilihan": {
+      "A": "Unsupervised Learning",
+      "B": "Supervised Learning",
+      "C": "Reinforcement Learning",
+      "D": "Generative AI",
+      "E": "Heuristic Search"
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 21,
+    "pertanyaan": "Seorang siswa mengumpulkan tugas yang 100% dibuat oleh ChatGPT tanpa disunting atau dicantumkan sumbernya. Sikap pedagogis guru yang paling tepat adalah...",
+    "pilihan": {
+      "A": "Memberi nilai 100 karena bahasanya sangat rapi.",
+      "B": "Langsung mengeluarkan siswa dari sekolah.",
+      "C": "Menjelaskan bahwa AI boleh untuk ide awal, tetapi menyalin total tanpa analisis melanggar etika akademik.",
+      "D": "Melarang penggunaan komputer di sekolah.",
+      "E": "Membiarkannya karena AI adalah teknologi masa depan."
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 22,
+    "pertanyaan": "Alat AI pemeringkat portofolio otomatis memberi nilai lebih rendah pada kandidat perempuan karena mempelajari data keputusan pengangkatan pegawai di masa lalu. Penyebab bias AI ini adalah...",
+    "pilihan": {
+      "A": "Komputer cemburu pada manusia.",
+      "B": "Data historis untuk melatih AI (training data) mengandung bias keputusan manusia di masa lalu.",
+      "C": "Program ditulis dengan bahasa asing.",
+      "D": "Komputer kekurangan kapasitas VGA.",
+      "E": "AI bekerja secara acak tanpa aturan."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 23,
+    "pertanyaan": "Formulasi petunjuk (prompt) ke Generative AI yang paling efektif untuk membuat modul ajar adalah...",
+    "pilihan": {
+      "A": "\"Buatkan modul koding.\"",
+      "B": "\"Tolong buatkan materi Informatika SMP yang bagus.\"",
+      "C": "\"Bertindaklah sebagai Guru Informatika. Buatkan modul ajar Algoritma Kelas 7 SMP berbasis Problem-Based Learning lengkap dengan asesmen HOTS.\"",
+      "D": "\"Salin modul ajar dari internet.\"",
+      "E": "\"Mengapa algoritma itu sulit?\""
+    },
+    "kunci": "C"
+  },
+  {
+    "id": 24,
+    "pertanyaan": "Saat listrik padam, guru mengajar logika pengurutan (Bubble Sort) menggunakan kartu angka di meja tanpa komputer. Bagaimana efektivitas metode ini?",
+    "pilihan": {
+      "A": "Tidak efektif karena Informatika wajib pakai komputer.",
+      "B": "Sangat efektif karena metode Unplugged mampu membangun logika siswa secara konkret sebelum koding.",
+      "C": "Buang-buang waktu dan tidak ada nilainya.",
+      "D": "Siswa tidak akan bisa koding jika tidak mengetik di keyboard.",
+      "E": "Kartu angka hanya cocok untuk anak TK."
+    },
+    "kunci": "B"
+  },
+  {
+    "id": 25,
+    "pertanyaan": "Siswa kesulitan memahami konsep abstrak variable dan looping di Scratch. Strategi pembelajaran yang paling membantu siswa SMP adalah...",
+    "pilihan": {
+      "A": "Meminta siswa menghafal semua blok kode di luar kepala.",
+      "B": "Menggunakan analogi dunia nyata (seperti variable = wadah berlabel, looping = lari keliling lapangan N kali).",
+      "C": "Memindahkan siswa ke bahasa pemrograman C++ yang rumit.",
+      "D": "Memberi sanksi pengurangan nilai.",
+      "E": "Mengganti materi dengan tes mengetik cepat."
+    },
+    "kunci": "B"
+  }
+]
